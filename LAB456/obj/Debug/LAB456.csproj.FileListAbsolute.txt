@@ -82,3 +82,5 @@ C:\Users\Administrator\Desktop\TranGiaHuy\LAB456\obj\Debug\LAB456.dll
 C:\Users\Administrator\Desktop\TranGiaHuy\LAB456\obj\Debug\LAB456.pdb
 C:\Users\Administrator\Desktop\TranGiaHuy\LAB456\obj\Debug\LAB456.Migrations.KhoiTaoModel.resources
 C:\Users\Administrator\Desktop\TranGiaHuy\LAB456\obj\Debug\LAB456.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\TranGiaHuy\LAB456\obj\Debug\LAB456.Migrations.CreateTableCourse.resources
+C:\Users\Administrator\Desktop\TranGiaHuy\LAB456\obj\Debug\LAB456.Migrations.PopulateCategoryTable.resources
